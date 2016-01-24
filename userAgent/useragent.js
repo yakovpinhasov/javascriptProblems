@@ -1,0 +1,1 @@
+console.log("The User Agent for your system is "+ navigator.userAgent); 

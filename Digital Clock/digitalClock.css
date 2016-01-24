@@ -1,0 +1,43 @@
+/* css file for digitalClock.html*/
+.wrapper{
+	margin: 0 auto;
+	max-width: 960px;
+	padding-top: 30px;
+	height: 150px;
+	text-align: center;
+	border:solid red;
+	margin-top:200px;
+	font-size:3em;
+	padding-top:5px;
+	background-color:blue;
+}
+
+body{
+	background-color: #80d4ea;
+}
+
+span{
+	text-align: center;
+	font-style: "David";
+
+}
+#dot{
+	font-size: 2em;
+}
+#hours,#minuts,#seconds,#milliseconds{
+	font-size: 2em;
+	font-style: "David";
+  	text-align: center;
+  	margin-top: 5px;
+  	color: black;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 5em;
+	color: red;
+	margin-top: 30px;
+}
+
+
